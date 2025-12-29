@@ -5,3 +5,4 @@ seaborn
 xgboost
 matplotlib
 joblib
+scipy
