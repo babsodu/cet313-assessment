@@ -1,0 +1,25 @@
+Feature,Test,Statistic,P-value,Effect_Size,Type,Significance_Level
+Age,Point-biserial,0.41992265021792924,0.0,0.41992265021792924,Numerical,Extremely Significant
+Genetic Risk Factor (APOE-ε4 allele),Chi-square,2808.696600457509,0.0,0.19444988778811229,Categorical,Extremely Significant
+Family History of Alzheimer’s,Chi-square,1473.779578697968,0.0,0.1408547670756637,Categorical,Extremely Significant
+Country,Chi-square,856.4996325174887,2.0652223501744024e-169,0.10737888080100028,Categorical,Extremely Significant
+Income Level,Chi-square,3.599812778686507,0.16531436268334843,0.006961378373375193,Categorical,Not Significant
+Urban vs Rural Living,Chi-square,1.2347962995677983,0.26647629573675224,0.00407711481966353,Categorical,Not Significant
+Employment Status,Chi-square,2.574305711765734,0.2760556354441439,0.005886882163337436,Categorical,Not Significant
+Alcohol Consumption,Chi-square,2.5333174762128547,0.28177152312859693,0.005839828485005745,Categorical,Not Significant
+Education Level,Point-biserial,0.003732189833564186,0.3090624227043949,0.003732189833564186,Numerical,Not Significant
+Stress Levels,Chi-square,2.041804234837724,0.36026978788121905,0.005242788434097025,Categorical,Not Significant
+Air Pollution Exposure,Chi-square,1.5527202576095271,0.4600775904623936,0.0045719544204614266,Categorical,Not Significant
+Dietary Habits,Chi-square,1.5262348697219739,0.4662107775121622,0.0045327938544982805,Categorical,Not Significant
+Diabetes,Chi-square,0.5170499060889715,0.47210282821554517,0.0026382838218869348,Categorical,Not Significant
+Smoking Status,Chi-square,1.1304360583204067,0.5682362411800552,0.0039010209584673266,Categorical,Not Significant
+Cholesterol Level,Chi-square,0.3195112054318619,0.5719015407319263,0.0020739502266412455,Categorical,Not Significant
+BMI,Point-biserial,-0.0017026436506842268,0.6426144417195789,0.0017026436506842268,Numerical,Not Significant
+Social Engagement Level,Chi-square,0.7581674876610146,0.6844882885948188,0.003194757224623548,Categorical,Not Significant
+Physical Activity Level,Chi-square,0.7114714584888131,0.7006577591261943,0.0030948102304747408,Categorical,Not Significant
+Gender,Chi-square,0.1327058611572836,0.715642842732787,0.0013365965470734072,Categorical,Not Significant
+Depression Level,Chi-square,0.5818760951557982,0.7475619898594532,0.0027987914622379425,Categorical,Not Significant
+Hypertension,Chi-square,0.09789886811143869,0.7543657941669072,0.0011480058941931907,Categorical,Not Significant
+Cognitive Test Score,Point-biserial,-0.001141735911444528,0.7556683968193944,0.001141735911444528,Numerical,Not Significant
+Marital Status,Chi-square,0.18294373222026195,0.9125869904127353,0.0015693291797092826,Categorical,Not Significant
+Sleep Quality,Chi-square,0.09363488170353425,0.9542615908728198,0.0011227268673614178,Categorical,Not Significant
